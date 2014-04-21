@@ -1,0 +1,1 @@
+KERNEL=="mali0", GROUP="chronos",MODE="0777"
